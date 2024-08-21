@@ -1,1 +1,1 @@
-# pentas
+# pentas.ist
